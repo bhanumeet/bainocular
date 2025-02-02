@@ -6,6 +6,9 @@
 
 ## About the Project
 
+![detected_HOUSE_SPARROW_20250202_020810](https://github.com/user-attachments/assets/ab29c4b2-c5d7-4240-9895-102b175bfa45)
+
+
 Our goal is to make **bAInoculars** a fun and educational tool:
 - **Nature Exploration**: Use technology to deepen your understanding of local wildlife.
 - **Real-Time Learning**: See instant AI-driven results about what bird might be in front of your camera.
